@@ -1,0 +1,41 @@
+.card {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.modal-content {
+    padding: 10px 10px 10px 10px;
+}
+
+#carouselExampleFade {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.lol {
+    display: flex;
+    gap: 300px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+
+.nav {
+    margin-bottom: 100px;
+}
+
+.carousel-fade .carousel-item-next.carousel-item-start, .carousel-fade .carousel-item-prev.carousel-item-end, .carousel-fade .carousel-item.active {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 50%;
+    height: 500px;
+}
